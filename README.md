@@ -13,7 +13,7 @@ Here's a path to learning this skill, based on [The Gary Halbert Letter](https:/
 
 1. Read recommended books and newsletters:
    - [ ] "Scientific Advertising" - by Claude Hopkins
-		 - [2-hour audiobook free on Libby](https://share.libbyapp.com/title/3573162)
+		   - [2-hour audiobook free on Libby](https://share.libbyapp.com/title/3573162)
    - [ ] "The Robert Collier Letter Book" - by Robert Collier
        - [12-hour audiobook on Audible](https://www.amazon.com/The-Robert-Collier-Letter-Book/dp/B018H97N0K)
    - [ ] "Tested Advertising Methods" - by John Caples
