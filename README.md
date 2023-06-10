@@ -12,19 +12,19 @@ Copywriting is, "effectively figuring out what people want and then using words 
 Here's a path to learning this skill, based on [The Gary Halbert Letter](https://www.thegaryhalbertletter.com/newsletters/zfkj_hands_on_experience.htm):
 
 1. Read recommended books and newsletters:
-   - [ ] "Scientific Advertising" - by Claude Hopkins
+   - [ ] "Scientific Advertising" by Claude Hopkins
 		   - [2-hour audiobook free on Libby](https://share.libbyapp.com/title/3573162)
-   - [ ] "The Robert Collier Letter Book" - by Robert Collier
+   - [ ] "The Robert Collier Letter Book" by Robert Collier
        - [12-hour audiobook on Audible](https://www.amazon.com/The-Robert-Collier-Letter-Book/dp/B018H97N0K)
-   - [ ] "Tested Advertising Methods" - by John Caples
-   - [ ] "How To Write A Good Advertisement" - by Vic Schwab
+   - [ ] "Tested Advertising Methods" by John Caples
+   - [ ] "How To Write A Good Advertisement" by Vic Schwab
        - [8-hour audiobook on Audible](https://www.amazon.com/How-Write-Good-Advertisement-Copywriting/dp/B089MFFW1P/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)
    - [ ] "The Gary Halbert Letter" (all back issues) - by Gary Halbert
-   - [ ] "The Boron Letters" - by Gary Halbert
-   - [ ] "The Lazy Man's Way to Riches" - by Joe Karbo
+   - [ ] "The Boron Letters" by Gary Halbert
+   - [ ] "The Lazy Man's Way to Riches" by Joe Karbo
        - [4-hour audiobook free on Libby](https://share.libbyapp.com/title/74099)  
-   - [ ] "Break-Through Advertising" - by Eugene M. Schwartz
-   - [ ] "7-Steps To Freedom" - by Ben Suarez
+   - [ ] "Break-Through Advertising" by Eugene M. Schwartz
+   - [ ] "7-Steps To Freedom" by Ben Suarez
        - [pdf online](https://media.oiipdf.com/pdf/661a8ce8-8d8c-4738-90e8-9a7e7137a237.pdf)
 2. Copy out all the ads and direct mail letters:
    - [ ] "Do You Make These Mistakes In English?"
