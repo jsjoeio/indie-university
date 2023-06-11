@@ -18,7 +18,7 @@ Here's a path to learning this skill, based on [The Gary Halbert Letter](https:/
 
 | **Title**              | **Author**     | **Book** | **Audiobook** | **Other** |
 |------------------------|----------------|----------|---------------|-----------|
-| Scientific Advertising | Claude Hopkins | [Amazon Paperback](https://amzn.to/3P6QjQn)     | [2-hour audiobook free on Libby](https://share.libbyapp.com/title/3573162)          | [1-hour summary on Founders podcast](https://pod.link/founders/episode/82c5785bd6cddbe5bf4c2d1537df46f6)      |
+| Scientific Advertising | Claude Hopkins | [Amazon Paperback](https://amzn.to/3P6QjQn)     | [audiobook on YouTube](https://youtube.com/playlist?list=PL6D56E211E350993F)          | [1-hour summary on Founders podcast](https://pod.link/founders/episode/82c5785bd6cddbe5bf4c2d1537df46f6)      |
 |The Robert Collier Letter Book             | Robert Collier         |  [Amazon Paperback](https://amzn.to/3J9v9gW)    | [12-hour audiobook on Audible](https://www.amazon.com/The-Robert-Collier-Letter-Book/dp/B018H97N0K)          | ✖️      |
 | Tested Advertising Methods                  | John Caples         | [Amazon Paperback](https://amzn.to/461uqIj)     |  ✖️  | [Free PDF](https://ia902206.us.archive.org/34/items/pdfy-hHdovzQ-RvFny9Cy/Tested%20Advertising%20Methods.pdf)      |
 | How To Write A Good Advertisement | Vic Schwab         | [Amazon Paperback](https://amzn.to/43PFTZK)     | [8-hour audiobook on Audible](https://www.amazon.com/How-Write-Good-Advertisement-Copywriting/dp/B089MFFW1P/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)          | ✖️      |     
