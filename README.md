@@ -13,19 +13,20 @@
 
 Here's a path to learning this skill, based on [The Gary Halbert Letter](https://www.thegaryhalbertletter.com/newsletters/zfkj_hands_on_experience.htm):
 
-1. Read recommended books and newsletters:
+1. Read recommended books and newsletters: 
+    > Gary recommends to read these as fast as possible and do not take notes (you'll take notes later)
 
 | **Title**              | **Author**     | **Book** | **Audiobook** | **Other** |
 |------------------------|----------------|----------|---------------|-----------|
-| Scientific Advertising | Claude Hopkins | todo     | todo          | [1-hour summary on Founders podcast](https://pod.link/founders/episode/82c5785bd6cddbe5bf4c2d1537df46f6)      |
-|The Robert Collier Letter Book             | Robert Collier         | [12-hour audiobook on Audible](https://www.amazon.com/The-Robert-Collier-Letter-Book/dp/B018H97N0K)     | todo          | todo      |
-| Tested Advertising Methods                  | John Caples         | todo     | [8-hour audiobook on Audible](https://www.amazon.com/How-Write-Good-Advertisement-Copywriting/dp/B089MFFW1P/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)          | todo      |
-| How To Write A Good Advertisement | Vic Schwab         | todo     | todo          | todo      |     
-| The Gary Halbert Letter  (all back issues)                 | Gary Halbert         | todo     | todo          | todo      |    
-| The Boron Letters                  | Gary Halbert         | todo     | todo          | todo      |    
-| The Lazy Man's Way to Riches                  | Joe Karbo         | todo     | [4-hour audiobook free on Libby](https://share.libbyapp.com/title/74099)            | todo      |    
-| Break-Through Advertising                  | Eugene M. Schwartz         | todo     | todo          | todo      |    
-| 7-Steps To Freedom                  | Ben Suarez         | [pdf online](https://media.oiipdf.com/pdf/661a8ce8-8d8c-4738-90e8-9a7e7137a237.pdf)     | todo          | todo      |    
+| Scientific Advertising | Claude Hopkins | [Amazon Paperback](https://amzn.to/3P6QjQn)     | [2-hour audiobook free on Libby](https://share.libbyapp.com/title/3573162)          | [1-hour summary on Founders podcast](https://pod.link/founders/episode/82c5785bd6cddbe5bf4c2d1537df46f6)      |
+|The Robert Collier Letter Book             | Robert Collier         |  [Amazon Paperback](https://amzn.to/3J9v9gW)    | [12-hour audiobook on Audible](https://www.amazon.com/The-Robert-Collier-Letter-Book/dp/B018H97N0K)          | ✖️      |
+| Tested Advertising Methods                  | John Caples         | [Amazon Paperback](https://amzn.to/461uqIj)     |  ✖️  | [Free PDF](https://ia902206.us.archive.org/34/items/pdfy-hHdovzQ-RvFny9Cy/Tested%20Advertising%20Methods.pdf)      |
+| How To Write A Good Advertisement | Vic Schwab         | [Amazon Paperback](https://amzn.to/43PFTZK)     | [8-hour audiobook on Audible](https://www.amazon.com/How-Write-Good-Advertisement-Copywriting/dp/B089MFFW1P/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=)          | ✖️      |     
+| The Gary Halbert Letter  (all back issues)                 | Gary Halbert         | ✖️     | ✖️          | [Newsletter Archives](https://thegaryhalbertletter.com/newsletter-archives.htm)      |    
+| The Boron Letters                  | Gary Halbert         | [Amazon Paperback](https://amzn.to/4602Uec)     | ✖️          | ✖️      |    
+| The Lazy Man's Way to Riches                  | Joe Karbo         | [Amazon Paperback](https://amzn.to/45Sfo7X)     | [7-hour audiobook on Audible](https://www.audible.com/pd/The-Lazy-Mans-Way-to-Riches-Audiobook/B077SM5WCY?action_code=ASSGB149080119000H&share_location=pdp) | ✖️      |    
+| Breakthrough Advertising                  | Eugene M. Schwartz         | [Breakthrough Advertising Book](https://breakthroughadvertisingbook.com/)     | ✖️          | ✖️      |    
+| 7-Steps To Freedom                  | Ben Suarez         | [Amazon Hardback (second edition)](https://amzn.to/3oWoDmG)      | ✖️          | [Free PDF](https://media.oiipdf.com/pdf/661a8ce8-8d8c-4738-90e8-9a7e7137a237.pdf)      |    
 2. Copy out all the ads and direct mail letters:
    - [ ] "Do You Make These Mistakes In English?"
    - [ ] "What Everybody Should Know About This Stock And Bond Business"
@@ -43,4 +44,9 @@ Here's a path to learning this skill, based on [The Gary Halbert Letter](https:/
    - [ ] Get back issues of The National Enquirer and copy all the repeated headlines.
    - [ ] Get back issues of Cosmopolitan Magazine and copy all the repeated headlines, especially the "cover blurbs."
    - [ ] Read "2001 Headlines" compiled by Jay Abraham and note down relevant headlines.
-6. TODO@jsjoeio - add step 6
+6. Take all your notes and headlines, copy them to index cards and put them in a box.
+7. Take a break for a few days from all this stuff.
+8. Read and reread every ad or direct mail package that has already been written about what you are trying to sell. Take notes on index cards.
+9. Take another break. If you have thoughts or ideas, keep them all in your head. Don't let them out... yet.
+10. Time to write your ad. Grab all your index cards, shuffle through them. Write down your ideas on more index cards.
+11. TODO@jsjoeio - add step 6
