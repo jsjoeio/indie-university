@@ -1,6 +1,6 @@
-# indie-university
+![header excalidraw](https://github.com/jsjoeio/indie-university/assets/3806031/372fd703-37c6-42ad-847b-1fddcbc5cab9)
 
-Think of this as a list of courses and resources to help you learn specific skills to grow as an indie hacker. If I were to ever build a school and teach tangible skills, this is what I'd teach.
+> **resources to grow as an indiehacker**
 
 ## Copywriting
 
