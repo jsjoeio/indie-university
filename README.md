@@ -25,7 +25,7 @@ Here's a path to learning this skill, based on [The Gary Halbert Letter](https:/
 | The Gary Halbert Letter  (all back issues)                 | Gary Halbert         | ✖️     | ✖️          | [Newsletter Archives](https://thegaryhalbertletter.com/newsletter-archives.htm)      |    
 | The Boron Letters                  | Gary Halbert         | [Amazon Paperback](https://amzn.to/4602Uec)     | ✖️          | ✖️      |    
 | The Lazy Man's Way to Riches                  | Joe Karbo         | [Amazon Paperback](https://amzn.to/45Sfo7X)     | [7-hour audiobook on Audible](https://www.audible.com/pd/The-Lazy-Mans-Way-to-Riches-Audiobook/B077SM5WCY?action_code=ASSGB149080119000H&share_location=pdp) | ✖️      |    
-| Breakthrough Advertising                  | Eugene M. Schwartz         | [Breakthrough Advertising Book](https://breakthroughadvertisingbook.com/)     | ✖️          | [Read free on Internet Archive](https://archive.org/details/breakthroughadve0000schw/mode/2up)      |    
+| Breakthrough Advertising                  | Eugene M. Schwartz         | [Breakthrough Advertising Book](https://breakthroughadvertisingbook.com/)     | ✖️          | [Read free on Internet Archive](https://archive.org/details/breakthroughadve0000schw/mode/2up), [applying learnings to TikTok](https://youtu.be/UDRXE516JHY)      |    
 | 7-Steps To Freedom                  | Ben Suarez         | [Amazon Hardback (second edition)](https://amzn.to/3oWoDmG)      | ✖️          | [Free PDF](https://media.oiipdf.com/pdf/661a8ce8-8d8c-4738-90e8-9a7e7137a237.pdf)      |    
 2. Copy out all the ads and direct mail letters:
    - [ ] "Do You Make These Mistakes In English?"
