@@ -27,17 +27,22 @@ Here's a path to learning this skill, based on [The Gary Halbert Letter](https:/
 | The Lazy Man's Way to Riches                  | Joe Karbo         | [Amazon Paperback](https://amzn.to/45Sfo7X)     | [7-hour audiobook on Audible](https://www.audible.com/pd/The-Lazy-Mans-Way-to-Riches-Audiobook/B077SM5WCY?action_code=ASSGB149080119000H&share_location=pdp) | ✖️      |    
 | Breakthrough Advertising                  | Eugene M. Schwartz         | [Breakthrough Advertising Book](https://breakthroughadvertisingbook.com/)     | ✖️          | [Read free on Internet Archive](https://archive.org/details/breakthroughadve0000schw/mode/2up), [applying learnings to TikTok](https://youtu.be/UDRXE516JHY)      |    
 | 7-Steps To Freedom                  | Ben Suarez         | [Amazon Hardback (second edition)](https://amzn.to/3oWoDmG)      | ✖️          | [Free PDF](https://media.oiipdf.com/pdf/661a8ce8-8d8c-4738-90e8-9a7e7137a237.pdf)      |    
+
 2. Copy out all the ads and direct mail letters:
-   - [ ] "Do You Make These Mistakes In English?"
-   - [ ] "What Everybody Should Know About This Stock And Bond Business"
-   - [ ] "The Nancy L. Halbert Heraldry Letter"
-   - [ ] "How To Burn Off Body Fat, Hour-By-Hour"
-   - [ ] "At 60 Miles An Hour The Loudest Noise In This Rolls Royce Is The Ticking Of The Electric Clock"
-   - [ ] "Why Men Crack"
-   - [ ] "How To Collect From Social Security At Any Age"
-   - [ ] "The Admiral Byrd Transpolar Expedition Letter"
-   - [ ] "The Lazy Man's Way To Riches"
-   - [ ] Any material written by Gary Bencivenga, Dan Rosenthal, Joe E. Kennedy, Pat Garrard, Steve Brown, Drew Kaplan, Claude Hopkins, Joe Karbo, Ben Suarez, Joe Sugarman, Gene Schwartz, and yourself.
+
+|                                                                                              **Ad**                                                                                              | **Link** |
+|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|
+| "Do You Make These Mistakes In English?"                                                                                                                                                         | ❓        |
+| "What Everybody Should Know About This Stock And Bond Business"                                                                                                                                  | ❓        |
+| "The Nancy L. Halbert Heraldry Letter"                                                                                                                                                           | ❓        |
+| "How To Burn Off Body Fat, Hour-By-Hour"                                                                                                                                                         | ❓        |
+| "At 60 Miles An Hour The Loudest Noise In This Rolls Royce Is The Ticking Of The Electric Clock"                                                                                                 | ❓        |
+| "Why Men Crack"                                                                                                                                                                                  | ❓        |
+| "How To Collect From Social Security At Any Age"                                                                                                                                                 | ❓        |
+| "The Admiral Byrd Transpolar Expedition Letter"                                                                                                                                                  | ❓        |
+| "The Lazy Man's Way To Riches"                                                                                                                                                                   | ❓        |
+| Any material written by Gary Bencivenga, Dan Rosenthal, Joe E. Kennedy, Pat Garrard, Steve Brown, Drew Kaplan, Claude Hopkins, Joe Karbo, Ben Suarez, Joe Sugarman, Gene Schwartz, and yourself. | ❓        |
+
 3. Pick 1 direct mail letter above and package up by hand (write/draw on paper)
 4. Reread all the books and newsletters from Step 1 and take hundreds of notes
 5. You should've read all those "headline sources" and copied down mucho headlines:
