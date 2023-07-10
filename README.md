@@ -32,7 +32,7 @@ Here's a path to learning this skill, based on [The Gary Halbert Letter](https:/
 
 |                                                                                              **Ad**                                                                                              | **Link** |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|
-| "Do You Make These Mistakes In English?"                                                                                                                                                         | ❓        |
+| "Do You Make These Mistakes In English?"                                                                                                                                                         | https://swiped.co/file/do-you-make-these-mistakes-by-max-sackheim/        |
 | "What Everybody Should Know About This Stock And Bond Business"                                                                                                                                  | ❓        |
 | "The Nancy L. Halbert Heraldry Letter"                                                                                                                                                           | ❓        |
 | "How To Burn Off Body Fat, Hour-By-Hour"                                                                                                                                                         | ❓        |
