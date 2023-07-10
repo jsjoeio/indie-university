@@ -4,10 +4,8 @@
 
 ## Copywriting
 
-<img alt='Copywriting is, "effectively figuring out what people want and then using words to get them to do what you want them to do"' src="https://github.com/jsjoeio/indie-university/assets/3806031/d9686f22-ffa9-4d74-affe-f7871dd2232c" width="400" />
-   
-[Sam Parr quote on Twitter](https://twitter.com/thesamparr/status/1327289025582026753?s=20)
-
+> Copywriting is "effictively figuring out what people want and then using words to get them to do what you want them to do ([source](https://twitter.com/thesamparr/status/1327289025582026753?s=20)).
+> 
 > I've said it 1,000 times: learning copywriting is hands down the most impactful business skill I've ever developed. It helps in business and life ([source](https://twitter.com/thesamparr/status/1136734232510730240?s=20)).
 > - Sam Parr, bootstrapped The Hustle to 8-figures, sold to Hubspot, now host of My First Million
 
