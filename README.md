@@ -2,6 +2,28 @@
 
 > **resources to grow as an indiehacker**
 
+## Becoming a Founder
+
+> Inspired by [this source tweet from Nat Eliason](https://x.com/nateliason/status/2057581414493667749?s=20) and the books shared in the attached screenshots.
+
+### Session 1 · Sell
+
+| **Title** | **Author** | **Goodreads** |
+|-----------|------------|---------------|
+| *Meditations* | Marcus Aurelius | [Goodreads](https://www.goodreads.com/search?q=Meditations+Marcus+Aurelius) |
+| *Turning Pro* | Steven Pressfield | [Goodreads](https://www.goodreads.com/search?q=Turning+Pro+Steven+Pressfield) |
+| *Never Split the Difference* | Chris Voss | [Goodreads](https://www.goodreads.com/search?q=Never+Split+the+Difference+Chris+Voss) |
+| *Letters from a Self-Made Merchant to His Son* | George Horace Lorimer | [Goodreads](https://www.goodreads.com/search?q=Letters+from+a+Self-Made+Merchant+to+His+Son+George+Horace+Lorimer) |
+
+### Session 2 · Build
+
+| **Title** | **Author** | **Goodreads** |
+|-----------|------------|---------------|
+| *Zero to One* | Peter Thiel | [Goodreads](https://www.goodreads.com/search?q=Zero+to+One+Peter+Thiel) |
+| *The Fountainhead* | Ayn Rand | [Goodreads](https://www.goodreads.com/search?q=The+Fountainhead+Ayn+Rand) |
+| *Thinking in Bets* | Annie Duke | [Goodreads](https://www.goodreads.com/search?q=Thinking+in+Bets+Annie+Duke) |
+| *Shoe Dog* | Phil Knight | [Goodreads](https://www.goodreads.com/search?q=Shoe+Dog+Phil+Knight) |
+
 ## Copywriting
 
 > Copywriting is "effictively figuring out what people want and then using words to get them to do what you want them to do ([source](https://twitter.com/thesamparr/status/1327289025582026753?s=20)).
