@@ -6,52 +6,30 @@
 
 > Inspired by [this source tweet from Nat Eliason](https://x.com/nateliason/status/2057581414493667749?s=20)
 
-### Session 1 · Sell
-
-| **Title** | **Author** | **Goodreads** |
-|-----------|------------|---------------|
-| *Meditations* | Marcus Aurelius | [Goodreads](https://www.goodreads.com/book/show/233411514-meditations) |
-| *Turning Pro* | Steven Pressfield | [Goodreads](https://www.goodreads.com/book/show/14912777-turning-pro) |
-| *Never Split the Difference* | Chris Voss | [Goodreads](https://www.goodreads.com/book/show/26156469-never-split-the-difference) |
-| *Letters from a Self-Made Merchant to His Son* | George Horace Lorimer | [Goodreads](https://www.goodreads.com/book/show/1221559.Letters_from_a_Self_Made_Merchant_to_His_Son) |
-
-### Session 2 · Build
-
-| **Title** | **Author** | **Goodreads** |
-|-----------|------------|---------------|
-| *Zero to One* | Peter Thiel | [Goodreads](https://www.goodreads.com/book/show/18050143-zero-to-one) |
-| *The Fountainhead* | Ayn Rand | [Goodreads](https://www.goodreads.com/book/show/2122.The_Fountainhead) |
-| *Thinking in Bets* | Annie Duke | [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets) |
-| *Shoe Dog* | Phil Knight | [Goodreads](https://www.goodreads.com/book/show/27220736-shoe-dog) |
-
-### Session 3 · Validate
-
-| **Title** | **Author** | **Goodreads** |
-|-----------|------------|---------------|
-| *The Goal* | Eliyahu Goldratt | [Goodreads](https://www.goodreads.com/book/show/113934.The_Goal) |
-| *Antifragile* | Nassim Taleb | [Goodreads](https://www.goodreads.com/book/show/13530973-antifragile) |
-| *Bastiat + Read + Hayek Essay Unit* | Frédéric Bastiat, Leonard Read, Friedrich Hayek | — |
-| *The Richest Man in Babylon* | George S. Clason | [Goodreads](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon) |
+| **Session** | **Title** | **Author** | **Goodreads** |
+|-------------|-----------|------------|---------------|
+| Sell | *Meditations* | Marcus Aurelius | [Goodreads](https://www.goodreads.com/book/show/233411514-meditations) |
+| Sell | *Turning Pro* | Steven Pressfield | [Goodreads](https://www.goodreads.com/book/show/14912777-turning-pro) |
+| Sell | *Never Split the Difference* | Chris Voss | [Goodreads](https://www.goodreads.com/book/show/26156469-never-split-the-difference) |
+| Sell | *Letters from a Self-Made Merchant to His Son* | George Horace Lorimer | [Goodreads](https://www.goodreads.com/book/show/1221559.Letters_from_a_Self_Made_Merchant_to_His_Son) |
+| Build | *Zero to One* | Peter Thiel | [Goodreads](https://www.goodreads.com/book/show/18050143-zero-to-one) |
+| Build | *The Fountainhead* | Ayn Rand | [Goodreads](https://www.goodreads.com/book/show/2122.The_Fountainhead) |
+| Build | *Thinking in Bets* | Annie Duke | [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets) |
+| Build | *Shoe Dog* | Phil Knight | [Goodreads](https://www.goodreads.com/book/show/27220736-shoe-dog) |
+| Validate | *The Goal* | Eliyahu Goldratt | [Goodreads](https://www.goodreads.com/book/show/113934.The_Goal) |
+| Validate | *Antifragile* | Nassim Taleb | [Goodreads](https://www.goodreads.com/book/show/13530973-antifragile) |
+| Validate | *Bastiat + Read + Hayek Essay Unit* | Frédéric Bastiat, Leonard Read, Friedrich Hayek | — |
+| Validate | *The Richest Man in Babylon* | George S. Clason | [Goodreads](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon) |
+| Grow | *Free to Choose* | Milton Friedman | [Goodreads](https://www.goodreads.com/book/show/97820.Free_to_Choose) |
+| Grow | *Energy and Civilization* | Vaclav Smil | [Goodreads](https://www.goodreads.com/book/show/31850765-energy-and-civilization) |
+| Grow | *The Book of Elon* | Eric Jorgenson | [Goodreads](https://www.goodreads.com/book/show/246358670-the-book-of-elon) |
+| Grow | *Man's Search for Meaning* | Viktor Frankl | [Goodreads](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) |
+| Scale | *The Beginning of Infinity* | David Deutsch | [Goodreads](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) |
+| Scale | *The Prince* | Niccolò Machiavelli | [Goodreads](https://www.goodreads.com/book/show/28862.The_Prince) |
+| Scale | *Finite and Infinite Games* | James Carse | [Goodreads](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games) |
+| Scale | *The Autobiography of Benjamin Franklin* | Benjamin Franklin | [Goodreads](https://www.goodreads.com/book/show/52309.The_Autobiography_of_Benjamin_Franklin) |
 
 > Note: there doesn't appear to be a single Goodreads entry for the Bastiat + Read + Hayek essay unit.
-
-### Session 4 · Grow
-
-| **Title** | **Author** | **Goodreads** |
-|-----------|------------|---------------|
-| *Free to Choose* | Milton Friedman | [Goodreads](https://www.goodreads.com/book/show/97820.Free_to_Choose) |
-| *Energy and Civilization* | Vaclav Smil | [Goodreads](https://www.goodreads.com/book/show/31850765-energy-and-civilization) |
-| *The Book of Elon* | Eric Jorgenson | [Goodreads](https://www.goodreads.com/book/show/246358670-the-book-of-elon) |
-| *Man's Search for Meaning* | Viktor Frankl | [Goodreads](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) |
-
-### Session 5 · Scale
-
-| **Title** | **Author** | **Goodreads** |
-|-----------|------------|---------------|
-| *The Beginning of Infinity* | David Deutsch | [Goodreads](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) |
-| *The Prince* | Niccolò Machiavelli | [Goodreads](https://www.goodreads.com/book/show/28862.The_Prince) |
-| *Finite and Infinite Games* | James Carse | [Goodreads](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games) |
-| *The Autobiography of Benjamin Franklin* | Benjamin Franklin | [Goodreads](https://www.goodreads.com/book/show/52309.The_Autobiography_of_Benjamin_Franklin) |
 
 ## Copywriting
 
