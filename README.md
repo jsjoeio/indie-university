@@ -2,6 +2,35 @@
 
 > **resources to grow as an indiehacker**
 
+## Becoming a Founder
+
+> Inspired by [this source tweet from Nat Eliason](https://x.com/nateliason/status/2057581414493667749?s=20)
+
+| **Session** | **Title** | **Author** | **Goodreads** |
+|-------------|-----------|------------|---------------|
+| Session 1 · Sell | *Meditations* | Marcus Aurelius | [Goodreads](https://www.goodreads.com/book/show/233411514-meditations) |
+| Session 1 · Sell | *Turning Pro* | Steven Pressfield | [Goodreads](https://www.goodreads.com/book/show/14912777-turning-pro) |
+| Session 1 · Sell | *Never Split the Difference* | Chris Voss | [Goodreads](https://www.goodreads.com/book/show/26156469-never-split-the-difference) |
+| Session 1 · Sell | *Letters from a Self-Made Merchant to His Son* | George Horace Lorimer | [Goodreads](https://www.goodreads.com/book/show/1221559.Letters_from_a_Self_Made_Merchant_to_His_Son) |
+| Session 2 · Build | *Zero to One* | Peter Thiel | [Goodreads](https://www.goodreads.com/book/show/18050143-zero-to-one) |
+| Session 2 · Build | *The Fountainhead* | Ayn Rand | [Goodreads](https://www.goodreads.com/book/show/2122.The_Fountainhead) |
+| Session 2 · Build | *Thinking in Bets* | Annie Duke | [Goodreads](https://www.goodreads.com/book/show/35957157-thinking-in-bets) |
+| Session 2 · Build | *Shoe Dog* | Phil Knight | [Goodreads](https://www.goodreads.com/book/show/27220736-shoe-dog) |
+| Session 3 · Validate | *The Goal* | Eliyahu Goldratt | [Goodreads](https://www.goodreads.com/book/show/113934.The_Goal) |
+| Session 3 · Validate | *Antifragile* | Nassim Taleb | [Goodreads](https://www.goodreads.com/book/show/13530973-antifragile) |
+| Session 3 · Validate | *Bastiat + Read + Hayek Essay Unit* | Frédéric Bastiat, Leonard Read, Friedrich Hayek | — |
+| Session 3 · Validate | *The Richest Man in Babylon* | George S. Clason | [Goodreads](https://www.goodreads.com/book/show/1052.The_Richest_Man_in_Babylon) |
+| Session 4 · Grow | *Free to Choose* | Milton Friedman | [Goodreads](https://www.goodreads.com/book/show/97820.Free_to_Choose) |
+| Session 4 · Grow | *Energy and Civilization* | Vaclav Smil | [Goodreads](https://www.goodreads.com/book/show/31850765-energy-and-civilization) |
+| Session 4 · Grow | *The Book of Elon* | Eric Jorgenson | [Goodreads](https://www.goodreads.com/book/show/246358670-the-book-of-elon) |
+| Session 4 · Grow | *Man's Search for Meaning* | Viktor Frankl | [Goodreads](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) |
+| Session 5 · Scale | *The Beginning of Infinity* | David Deutsch | [Goodreads](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) |
+| Session 5 · Scale | *The Prince* | Niccolò Machiavelli | [Goodreads](https://www.goodreads.com/book/show/28862.The_Prince) |
+| Session 5 · Scale | *Finite and Infinite Games* | James Carse | [Goodreads](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games) |
+| Session 5 · Scale | *The Autobiography of Benjamin Franklin* | Benjamin Franklin | [Goodreads](https://www.goodreads.com/book/show/52309.The_Autobiography_of_Benjamin_Franklin) |
+
+> Note: there doesn't appear to be a single Goodreads entry for the Bastiat + Read + Hayek essay unit.
+
 ## Copywriting
 
 > Copywriting is "effictively figuring out what people want and then using words to get them to do what you want them to do ([source](https://twitter.com/thesamparr/status/1327289025582026753?s=20)).
