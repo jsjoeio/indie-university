@@ -6,9 +6,9 @@
 
 > Inspired by [this source tweet from Nat Eliason](https://x.com/nateliason/status/2057581414493667749?s=20)
 
-| **Session** | **Title** | **Author** | **Goodreads** |
-|-------------|-----------|------------|---------------|
-| Session 1 · Sell | *Meditations* | Marcus Aurelius | [Goodreads](https://www.goodreads.com/book/show/233411514-meditations) |
+| **Session** | **Title** | **Author** | **Links** |
+|-------------|-----------|------------|-----------|
+| Session 1 · Sell | *Meditations* | Marcus Aurelius | [Goodreads](https://www.goodreads.com/book/show/233411514-meditations), [Audiobook on Spotify (en)](https://open.spotify.com/show/7AJeAMtPG8HVBurEVlEqlC?si=G1GP0wrJTnKQvOtoDek2iQ), [Podcast audiobook with subtitles on Spotify (es)](https://open.spotify.com/episode/3peAs7jiOBIWKvyrlUjmu1?si=Jp2fJv09QgGuz5efDG0bwQ&t=1556), [Ebook in Spanish](https://www.elejandria.com/libro/las-meditaciones-de-marco-aurelio/marco-aurelio/1301) |
 | Session 1 · Sell | *Turning Pro* | Steven Pressfield | [Goodreads](https://www.goodreads.com/book/show/14912777-turning-pro) |
 | Session 1 · Sell | *Never Split the Difference* | Chris Voss | [Goodreads](https://www.goodreads.com/book/show/26156469-never-split-the-difference) |
 | Session 1 · Sell | *Letters from a Self-Made Merchant to His Son* | George Horace Lorimer | [Goodreads](https://www.goodreads.com/book/show/1221559.Letters_from_a_Self_Made_Merchant_to_His_Son) |
